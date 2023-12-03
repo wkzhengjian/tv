@@ -98,6 +98,9 @@ CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 无台标1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 无台标2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+斗鱼轮播,#genre#
+斗鱼电影,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 IPV6专区,#genre#
 CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
